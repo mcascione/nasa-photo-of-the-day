@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Logo = styled.div`
     padding: 20px 2px;
-    background-color: black;
+    background-color: none;
     width: 10%;
     margin: 10px;
 `;
